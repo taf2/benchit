@@ -1,0 +1,8 @@
+= Benchmarks
+
+rvm install ree
+rvm install ruby-1.9.3
+rvm install jruby
+
+make setup
+make
