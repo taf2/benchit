@@ -1,0 +1,3 @@
+rvm use ruby-1.9.3-p0@mustache --create
+rvm use jruby@mustache --create
+rvm use ree@mustache --create
